@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\shit\sdl3-game\sdl3-game\main.cpp(114,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\shit\sdl3-game\sdl3-game\main.cpp(121,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sdl3-game.vcxproj -> D:\shit\sdl3-game\x64\Debug\sdl3-game.exe
